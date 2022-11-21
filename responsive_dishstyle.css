@@ -1,0 +1,48 @@
+@media screen and (max-width: 768px) {
+	html {
+		height: 100%;
+    	width: 100%;
+    	overflow-x: hidden;
+	}
+
+	body {
+		height: auto;
+    	width: auto;
+	}
+
+	#dish {
+    font-size: 30px;
+	}
+
+	.input {
+		height: 140px;
+		margin-top: 95px;
+	}
+
+	#username {
+		margin: 0;
+		padding: 5px;
+		font-size: 27px;
+		height: 40px;
+
+	}
+
+	#password {
+		margin: 13px;
+		font-size: 27px;
+		padding: 5px;
+		height: 40px;
+	}
+
+	#sign_in {
+		padding-left: 0px;
+		width: 75px;
+	    margin-top: 0;
+	    font-size: 15px;
+	}
+
+	#forgot {
+		font-size: 12px;
+		font-weight: bold;
+	}
+}
